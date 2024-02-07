@@ -1,7 +1,7 @@
-package factorymethod.java;
+package creational_patterns.factorymethod.java;
 
-import factorymethod.Blackship;
-import factorymethod.Whiteship;
+import creational_patterns.factorymethod.Blackship;
+import creational_patterns.factorymethod.Whiteship;
 
 public class SimpleFactory {
 

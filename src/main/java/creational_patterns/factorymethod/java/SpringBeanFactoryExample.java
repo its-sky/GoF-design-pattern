@@ -1,4 +1,4 @@
-package factorymethod.java;
+package creational_patterns.factorymethod.java;
 
 import org.springframework.beans.factory.BeanFactory;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

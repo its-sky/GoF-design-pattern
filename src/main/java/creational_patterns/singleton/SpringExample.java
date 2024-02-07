@@ -1,4 +1,4 @@
-package singleton;
+package creational_patterns.singleton;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

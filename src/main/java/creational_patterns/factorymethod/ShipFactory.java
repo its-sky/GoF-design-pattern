@@ -1,4 +1,4 @@
-package factorymethod;
+package creational_patterns.factorymethod;
 
 public interface ShipFactory {
 
